@@ -1,0 +1,13 @@
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.exe
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.deps.json
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.runtimeconfig.json
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.runtimeconfig.dev.json
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.dll
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.pdb
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.AssemblyInfoInputs.cache
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.AssemblyInfo.vb
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.vbproj.CoreCompileInputs.cache
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.dll
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.pdb
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.genruntimeconfig.cache
+C:\Users\leahn_g4cr33n\source\repos\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.vbprojAssemblyReference.cache
